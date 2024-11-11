@@ -4,15 +4,86 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1d8381e-d872-459b-a461-a0d2ee95ddd7" name="Changes" comment="" />
+    <list default="true" id="b1d8381e-d872-459b-a461-a0d2ee95ddd7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Hft1Uyg1/Hft1Uyg1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hft1Uyg2ConstructorStaticMethods/Hft1Uyg2ConstructorStaticMethods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hft1Uyg3/Hft1Uyg3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hft2Proj1Rectangle/Hft2Proj1Rectangle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hft2Proj4TestCircle3/.idea/Hft2Proj4TestCircle3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hft3Uyg1TestStock/Hft3Uyg1TestStock.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hft4Uyg1TotalArea/Hft4Uyg1TotalArea.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hft4Uyg2ImmutableClass/Hft4Uyg2ImmutableClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hft4Uyg2TestHesap/Hft4Uyg2TestHesap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hft4Uyg4KapsamAraligi/Hft4Uyg4KapsamAraligi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hft5Proj4TestCourse/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hft5ImmutableClass/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hft5ImmutableClass/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hft5ImmutableClass/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hft5ImmutableClass/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hft5ImmutableClass/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hft5ImmutableClass/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hft5MyInteger/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hft5MyInteger/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hft5Proj2KapsamAraligi/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hft5Proj2KapsamAraligi/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hft5Proj2KapsamAraligi/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hft5Proj2KapsamAraligi/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hft5Proj2KapsamAraligi/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hft5Proj2KapsamAraligi/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hft5Proj4TestCourse/src/Course.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hft5Proj4TestCourse/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hft5Proj4TestCourse/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hft5ProjSonTestStack/src/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hft5ProjSonTestStack/src/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCourse/TestCourse/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCourse/TestCourse/src/main/java/com/mycompany/testcourse/Course.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCourse/TestCourse/src/main/java/com/mycompany/testcourse/TestCourse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCourse/TestCourse/target/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCourse/TestCourse/target/classes/com/mycompany/testcourse/Course.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCourse/TestCourse/target/classes/com/mycompany/testcourse/TestCourse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCourse/TestCourse/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCourse/TestCourse/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCourse/TestCourse/target/test-classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCourse/__MACOSX/TestCourse/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCourse/__MACOSX/TestCourse/src/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCourse/__MACOSX/TestCourse/src/main/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCourse/__MACOSX/TestCourse/src/main/java/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCourse/__MACOSX/TestCourse/src/main/java/com/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCourse/__MACOSX/TestCourse/src/main/java/com/mycompany/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCourse/__MACOSX/TestCourse/src/main/java/com/mycompany/testcourse/._TestCourse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestHesap/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestHesap/src/main/java/com/mycompany/testhesap/Hesap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestHesap/src/main/java/com/mycompany/testhesap/TestHesap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestHesap/target/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestHesap/target/classes/com/mycompany/testhesap/Hesap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestHesap/target/classes/com/mycompany/testhesap/TestHesap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestHesap/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestHesap/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestHesap/target/test-classes/.netbeans_automatic_build" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "husoelrey"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/husoelrey/JavaOOP.git",
+    "accountId": "bcbb61f8-2493-4cb2-94ed-6beeb22f8bc6"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2oZLVMPeZ9UWVO3VOpyFLqOnWYD" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -20,16 +91,36 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/husoelrey/Documents/IntellijMaku/Hft7Uyg4TestCircle2D",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Hft5Rectangle" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -47,6 +138,7 @@
       <option name="presentableId" value="Default" />
       <updated>1731072175481</updated>
       <workItem from="1731072176426" duration="566000" />
+      <workItem from="1731351767818" duration="10233000" />
     </task>
     <servers />
   </component>

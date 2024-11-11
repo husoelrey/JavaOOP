@@ -1,3 +1,5 @@
+//LIFO YAPISI 5.SLAYTTA VAR PUSH POP FALAN ONU ANLATÖAYA ÇAILMIŞ
+
 public class Stack {
 
     //slaytta stack yapısı başlığı altında push pop ve peep var onları burda göstermeye çalışıyorz

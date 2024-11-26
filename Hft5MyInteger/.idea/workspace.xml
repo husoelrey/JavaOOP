@@ -5,21 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ea5827e-e17d-4423-81de-aeac080fca5d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hft5ImmutableClass/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hft5ImmutableClass/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hft5ImmutableClass/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hft5ImmutableClass/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hft5ImmutableClass/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hft5ImmutableClass/src/main/java/org/example/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hft5Proj2KapsamAraligi/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hft5Proj2KapsamAraligi/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hft5Proj2KapsamAraligi/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hft5Proj2KapsamAraligi/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hft5Proj2KapsamAraligi/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hft5Proj2KapsamAraligi/src/main/java/org/example/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hft5Proj4TestCourse/src/Course.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hft5Proj4TestCourse/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hft5Proj4TestCourse/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hft5Rectangle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hft5Rectangle/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hft5Thiskullanimi/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hft5Thiskullanimi/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hft5Thiskullanimi/src/ThisKullanimi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hft7Uyg1MetodOverload/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hft7Uyg1MetodOverload/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hft7Uyg4TestCircle2D/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hft7Uyg4TestCircle2D/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hft8Uyg1PolymorphizmDemo/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hft8Uyg1PolymorphizmDemo/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hft8Uyg2TestPayment/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hft8Uyg2TestPayment/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hftt6uyg2RectengleAndCircle/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hftt6uyg2RectengleAndCircle/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hftt6uyg2RectengleAndCircle/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hftt6uyg2RectengleAndCircle/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hftt6uyg2RectengleAndCircle/Hftt6uyg2RectengleAndCircle.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hftt6uyg2RectengleAndCircle/src/Geo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hftt6uyg2RectengleAndCircle/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deneme_TestOverride/src/main/java/com/mycompany/deneme_testoverride/Deneme_TestOverride.java" beforeDir="false" afterPath="$PROJECT_DIR$/../deneme_TestOverride/src/main/java/com/mycompany/deneme_testoverride/Deneme_TestOverride.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,18 +29,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "husoelrey"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;husoelrey&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/husoelrey/JavaOOP.git",
-    "accountId": "bcbb61f8-2493-4cb2-94ed-6beeb22f8bc6"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/husoelrey/JavaOOP.git&quot;,
+    &quot;accountId&quot;: &quot;bcbb61f8-2493-4cb2-94ed-6beeb22f8bc6&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -49,20 +49,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/husoelrey/Documents/IntellijMaku/Hft5Thiskullanimi",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/husoelrey/Documents/IntellijMaku/Hft5Thiskullanimi&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -81,6 +81,7 @@
       <updated>1731071906425</updated>
       <workItem from="1731071907363" duration="845000" />
       <workItem from="1731350351445" duration="225000" />
+      <workItem from="1732601374720" duration="442000" />
     </task>
     <servers />
   </component>

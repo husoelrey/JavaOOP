@@ -1,16 +1,17 @@
+//override ve casting KONULARI
 public class Main {
-
-    //ovirride ve castinglere devam etcez
     public static void main(String[] args) {
 
-
-        payment[] payments = new payment[] {
+// payment dizisi oluşturuluyor ve her ödeme türünden bir nesne ekleniyor
+        payment[] xyz = new payment[] { //değerleri direk atadığımız için dizi boyutu belirtmedik
+                //int[] numbers = {10, 20, 30}; // Diziyi başlangıçta değerlerle tanımlıyoruz BU ŞEKİLDE
                 new CreditCardPayment(35000, "Akt3rfwor30"),
                 new PayPalPayment(200000, "aliveli4950@gmail.com"),
                 new cryptoPayment(1000000, "fımcknkfkvdkmr")
         };
 
-    for (payment p : payments) { //payment veritipindeki p döngü değişkeniyle payment dizimizde geziyoruz FOREACH DÖNGÜSÜ
+
+    for (payment p : xyz) { //payment veritipindeki p döngü değişkeniyle xyz dizimizde geziyoruz FOREACH DÖNGÜSÜ
         processpaymentMethod(p);//main dşında tanımladık bu metodu
     }
     }//main bitişi
@@ -19,6 +20,14 @@ public class Main {
     //burda 2 yeni şey görüyoruz, instanceof ve try catch bloğu
     public static void processpaymentMethod(payment pp) {
         pp.initialize();
+        //her ödeme işlemi başlatılır. Bu, initialize() metodunun override edilmesi sayesinde her ödeme türüne göre farklı bir mesaj gösterir.
+        /*
+        instanceof ve Casting:
+    instanceof operatörü ile pp nesnesinin hangi alt sınıfa ait olduğunu kontrol ederiz.
+    Eğer pp, cryptoPayment türünde bir nesne ise, cryptoPayment türüne cast edilir ve verifyTransaction() metodu çağrılır.
+    PayPalPayment veya CreditCardPayment türündeki nesneler için de benzer işlemler yapılır.
+    Bu sayede her ödeme türüne özgü işlemler yapılabilir.
+         */
         if(pp instanceof cryptoPayment) { //instanceof cryptopayment dediğimiz şey, pp döngü değişkenimiz cryptopaymentin bir nesnesi mi on kontrol eder
             cryptoPayment crypto= (cryptoPayment) pp;
             crypto.verifyTransaction();//tip dönüşümü yaptık cp nesnesi üzerinden creditcardpayment sınfınfın nesnelerine erişebiliyoz

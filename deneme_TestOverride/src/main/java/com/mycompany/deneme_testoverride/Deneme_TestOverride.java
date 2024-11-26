@@ -1,8 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Project/Maven2/JavaApp/src/main/java/${packagePath}/${mainClassName}.java to edit this template
- */
-
 package com.mycompany.deneme_testoverride;
 
 
@@ -61,7 +56,7 @@ class EmployeManager{
     
     }
     
-    public void makeRaise(double artis)
+    public void makeRaise(double artis) //zam yap fonksiyonu
     {
         this.employeeMoney+=artis;
         System.out.println("ana classtaki çalışanın zamlı maaşı:"+this.employeeMoney);        

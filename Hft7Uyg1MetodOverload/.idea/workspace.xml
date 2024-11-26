@@ -1,15 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb6b5404-93e7-47a5-aee4-555a5e434d79" name="Changes" comment="" />
+    <list default="true" id="bb6b5404-93e7-47a5-aee4-555a5e434d79" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../deneme_TestOverride/src/main/java/com/mycompany/deneme_testoverride/Deneme_TestOverride.java" beforeDir="false" afterPath="$PROJECT_DIR$/../deneme_TestOverride/src/main/java/com/mycompany/deneme_testoverride/Deneme_TestOverride.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "husoelrey"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/husoelrey/JavaOOP.git",
+    "accountId": "bcbb61f8-2493-4cb2-94ed-6beeb22f8bc6"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2oI9OTUcYdEdhvW0GxMxvwpcQDS" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -18,7 +35,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/husoelrey/Documents/IntellijMaku/Hft7Uyg1MetodOverload",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -40,6 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1730546192836</updated>
       <workItem from="1730546193745" duration="7000" />
+      <workItem from="1731365590150" duration="40000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,1 @@
+Small projects I did while learning Java

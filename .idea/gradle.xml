@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Hft2Proj2VisibilityModifiers" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Hft2Proj2VisibilityModifiers" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Hft2Proj3VisibiltyModifiers2" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Hft2Proj3VisibiltyModifiers2" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Hft2Proj4TestCircle3" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Hft2Proj4TestCircle3" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Hft2Proje1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Hft2Proje1" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Uygulama1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Uygulama1" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Uygulama2" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Uygulama2" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Uygulama3" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Uygulama3" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/untitled" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/untitled1" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
